@@ -1,5 +1,11 @@
 # yuvtools
-YUV Tools using Python
+YUV Tools using Python3
+
+# Install
+
+```
+$ pip3 install yuvtools
+```
 
 # Usage
 
