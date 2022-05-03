@@ -1,5 +1,5 @@
 import cv2
-from . import yuv
+from yuvtools import yuv
 import argparse
 
 
